@@ -13,6 +13,7 @@
 		F15A25061DA7EBC10020D5A6 /* AuthenticationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15A25051DA7EBC10020D5A6 /* AuthenticationViewController.swift */; };
 		F184D07F1D95885D004065D8 /* TripTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F184D07E1D95885D004065D8 /* TripTableViewController.swift */; };
 		F184D0811D958FCC004065D8 /* TripDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F184D0801D958FCC004065D8 /* TripDetailViewController.swift */; };
+		F1A42D611DFB208900A82049 /* ChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A42D601DFB208900A82049 /* ChartData.swift */; };
 		F1EA7C271D9583D7009B7485 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1EA7C261D9583D7009B7485 /* AppDelegate.swift */; };
 		F1EA7C2C1D9583D7009B7485 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1EA7C2A1D9583D7009B7485 /* Main.storyboard */; };
 		F1EA7C2E1D9583D7009B7485 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1EA7C2D1D9583D7009B7485 /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 		F15A25051DA7EBC10020D5A6 /* AuthenticationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthenticationViewController.swift; sourceTree = "<group>"; };
 		F184D07E1D95885D004065D8 /* TripTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripTableViewController.swift; sourceTree = "<group>"; };
 		F184D0801D958FCC004065D8 /* TripDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripDetailViewController.swift; sourceTree = "<group>"; };
+		F1A42D601DFB208900A82049 /* ChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChartData.swift; sourceTree = "<group>"; };
 		F1EA7C231D9583D7009B7485 /* Audi Research App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Audi Research App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1EA7C261D9583D7009B7485 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F1EA7C2B1D9583D7009B7485 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				F184D0801D958FCC004065D8 /* TripDetailViewController.swift */,
 				F1EA7C261D9583D7009B7485 /* AppDelegate.swift */,
 				F1EA7C2A1D9583D7009B7485 /* Main.storyboard */,
+				F1A42D601DFB208900A82049 /* ChartData.swift */,
 				F15A25051DA7EBC10020D5A6 /* AuthenticationViewController.swift */,
 				F1EA7C2D1D9583D7009B7485 /* Assets.xcassets */,
 				F1EA7C2F1D9583D7009B7485 /* LaunchScreen.storyboard */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F15A25061DA7EBC10020D5A6 /* AuthenticationViewController.swift in Sources */,
+				F1A42D611DFB208900A82049 /* ChartData.swift in Sources */,
 				F184D0811D958FCC004065D8 /* TripDetailViewController.swift in Sources */,
 				F184D07F1D95885D004065D8 /* TripTableViewController.swift in Sources */,
 				F1EA7C271D9583D7009B7485 /* AppDelegate.swift in Sources */,

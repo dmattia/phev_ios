@@ -37,7 +37,7 @@ class AuthenticationViewController: UIViewController {
         // 3. Check the fingerprint
         authenticationContext.evaluatePolicy(
             .deviceOwnerAuthenticationWithBiometrics,
-            localizedReason: "Only awesome people are allowed",
+            localizedReason: "Only a cars owner can view it's data",
             reply: { [unowned self] (success, error) -> Void in
                 
                 if( success ) {
